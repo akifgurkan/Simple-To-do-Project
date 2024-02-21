@@ -1,4 +1,4 @@
-//Motoko Dili Projesi
+// Motoko Dili ile "Telefon Rehberi" Projesi
 
 import Map "mo:base/HashMap";
 import Text "mo:base/Text";
@@ -15,7 +15,7 @@ actor Telefon_Defterim {
     Telefon:Telefon;
   };
 
-  //desgiskenler
+  //Desgiskenler
   //let -> immutable (degismez)
   //var -> mutable(degistirebilir)
   //const -> ...
