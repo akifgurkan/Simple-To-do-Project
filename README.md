@@ -3,7 +3,7 @@
  Akıllı sözleşme, blok zinciri tabanlı bir uygulamada özerk olarak çalışabilen ve belirli koşullar altında işlemleri gerçekleştirebilen bir program parçasıdır.
 
 
-## Bu kodda, blok zinciri tabanlı bir uygulamada bir telefon defteri işlevselliğini sağlamak nasıl kullanılabileceğinin basit bir örneğini yaptım.
+### Bu kodda, blok zinciri tabanlı bir uygulamada bir telefon defteri işlevselliğini sağlamak nasıl kullanılabileceğinin basit bir örneğini yaptım.
 * Burada "Telefon_Defterim" adında bir aktör (actor) tanımlanır. Aktörler, Motoko dilinde eşzamanlı işlemleri yönetmek ve paralel hesaplamalar gerçekleştirmek için kullanılan bir yapıdır.
 
 * Bu aktör, bir telefon defteri uygulamasını temsil eder. Telefon defterindeki her giriş, kişinin adı ve telefon numarası ile ilişkilendirilmiş bir açıklamadan oluşan bir yapı içinde tutulur. 
