@@ -1,18 +1,18 @@
-//Motoko
+//Motoko Dili Projesi
 
 import Map "mo:base/HashMap";
 import Text "mo:base/Text";
 
-// actor -> akilli sozlesme
+// actor -> Akıllı Sözleşme
 
-actor {
+actor Telefon_Defterim {
 
   type Name = Text;
-  type Phone = Text;
+  type Telefon = Text;
 
   type Entry = {
-    desc: Text;
-    phone:Phone;
+    Aciklama: Text;
+    Telefon:Telefon;
   };
 
   //desgiskenler
