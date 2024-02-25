@@ -1,5 +1,5 @@
 # => Simple-To-do-Project <=
-## Bu kod, Motoko dilinde yazılmış bir akıllı sözleşme örneğini içerir:
+## Bu kod, Motoko dilinde yazılmış bir akıllı sözleşme örneğini içerir.
  Akıllı sözleşme, blok zinciri tabanlı bir uygulamada özerk olarak çalışabilen ve belirli koşullar altında işlemleri gerçekleştirebilen bir program parçasıdır.
 
 
@@ -8,7 +8,7 @@
 
 * Bu aktör, bir telefon defteri uygulamasını temsil eder. Telefon defterindeki her giriş, kişinin adı ve telefon numarası ile ilişkilendirilmiş bir açıklamadan oluşan bir yapı içinde tutulur. 
 
-Bu kodun işlevleri şunlardır:
+Bu kodun işlevleri ise şunlardır:
 
 1. `insert` fonksiyonu:
     Bir kişinin adı ve telefon numarası ile rehberde bir giriş ekler. `name` parametresi, kişinin adını, `entry` parametresi ise kişinin telefon numarasını ve açıklamasını içeren bir veri yapısını temsil eder.
