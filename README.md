@@ -18,6 +18,18 @@ Bu kodun işlevleri ise şunlardır:
 
 ***********************************************************************************************************************************************************
 # => Simple-To-do-Project-2 <=
+## Programın Özellikleri:
+Yapılacaklar listesi oluşturma ve yönetme.
+Yeni yapılacaklar ekleme.
+Yapılacakları tamamlanmış olarak işaretleme.
+Yapılacaklar listesini görüntüleme.
+Tamamlanmış tüm yapılacakları silme.
+
+## Programın Kullanım Alanları:
+Kişisel görevleri yönetmek.
+Alışveriş listeleri oluşturmak.
+Proje görevlerini takip etmek.
+Yapılması gereken her şeyi organize etmek.
 import { MarkdownChipRow } from "/src/components/Chip/MarkdownChipRow";
 
 # Simple to-do
