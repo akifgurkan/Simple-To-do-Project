@@ -16,7 +16,7 @@ Bu kodun işlevleri ise şunlardır:
 3. `lookup` fonksiyonu:
     Bir kişinin adını alır ve bu kişinin rehberdeki girişini bulur. Bu fonksiyon, rehberdeki bir girişi sorgulamak için kullanılır. Eğer kişinin adı rehberde bulunursa, ilgili girişin bilgilerini döndürür. Eğer kişi rehberde bulunmazsa, null değeri döndürür.
 
-### Bilgisayarınıza hiçbir yükleme yapmadan bu siteden projeleinizi çalıştırabilirsiniz: 
+### Not: Bilgisayarınıza hiçbir yükleme yapmadan bu siteden projeleinizi çalıştırabilirsiniz: 
 https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/
 ***********************************************************************************************************************************************************
 # => Simple-To-do-Project-2 <=
