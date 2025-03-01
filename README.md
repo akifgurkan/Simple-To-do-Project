@@ -1,4 +1,5 @@
 # ==> Simple-To-do-Project <==
+
 ## Bu kod, Motoko dilinde yazılmış bir akıllı sözleşme örneğini içerir.
  Akıllı sözleşme, blok zinciri tabanlı bir uygulamada özerk olarak çalışabilen ve belirli koşullar altında işlemleri gerçekleştirebilen bir program parçasıdır.
 
